@@ -1,0 +1,15 @@
+.grid a {
+	border: 1px solid red;
+	padding: 50px;
+	display: inline-block;
+	margin: 0px;
+	
+}
+
+.row {
+	clear: both;
+}
+
+.grid {
+	text-align: center;
+}
